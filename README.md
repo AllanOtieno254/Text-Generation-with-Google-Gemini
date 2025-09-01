@@ -85,4 +85,4 @@ This project serves as a **step-by-step guide** for beginners to advanced users 
 ```python
 !pip install -q -U google-generativeai
 
-
+https://www.kodeco.com/ai/paths/cloud-based-ai/45598500-text-generation-with-google-gemini/01-introduction-to-google-gemini/07?utm_source=chatgpt.com
