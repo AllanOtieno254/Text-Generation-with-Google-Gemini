@@ -1,6 +1,7 @@
 # Text Generation with Google Gemini
 
-![Google Gemini Logo](https://upload.wikimedia.org/wikipedia/commons/2/2d/Google_G_logo.svg)
+<img width="2560" height="946" alt="gemini logo" src="https://github.com/user-attachments/assets/f881f20b-5565-4a02-bd71-62e8ec22080e" />
+
 
 ## Table of Contents
 
